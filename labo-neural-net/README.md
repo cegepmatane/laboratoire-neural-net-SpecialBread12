@@ -1,6 +1,6 @@
 **Préparer des fleurs**  
 Devoir de départ : https://colab.research.google.com/drive/1aRgoTBMgkEcnNqrkLfupOY6qLz1OFp5M  
-Votre copie publique :   
+Votre copie publique :   https://colab.research.google.com/drive/1Brlnxh8R8UXAZHKUwU8GbcILLH7dL8_w?usp=sharing
 
 **Journal Colab Introductoire**  
 Devoir de départ : https://colab.research.google.com/drive/1N0uImy9Q9AavpifabXgS3py0-GJ3XWON#scrollTo=2jV7i_-OZVIv  
