@@ -12,7 +12,8 @@ Votre colab public : https://colab.research.google.com/drive/1MDgYCYM1wkfBoHSbTB
 **Dessin de blocs**
 
 Votre dessin en format PNG (on doit le voir dans le README) :  
-![Untitled](https://github.com/user-attachments/assets/25f3bca2-49fd-434c-9989-1650f68fafa2)
+![Untitled](https://github.com/user-attachments/assets/19028780-5ed2-450a-ab6b-625dcf123926)
+
 
 Source du dessin (format xml ou autre) :  
 
